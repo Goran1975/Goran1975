@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...\
-- :office: Nastavnik u skoli
+- :office: Nastavnik u skoli\
+- :email:frenchstanojevic@gmail.com
 

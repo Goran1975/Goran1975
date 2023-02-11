@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...github
-- 🌱 I’m currently learning ...mardown
+- 🌱 I’m currently learning ...markdown
 - 👯 I’m looking to collaborate on ...google colab
 - 🤔 I’m looking for help with ...jupyter
 - 💬 Ask me about ...
